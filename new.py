@@ -1,1 +1,1 @@
-print(1+1)
+print("A new commite")
